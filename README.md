@@ -2,6 +2,15 @@
 	Webserv: By <a href="https://github.com/mgkgng">min-kang</a>, <a href="https://github.com/SalvatoreSpina">sspina</a> and <a href="https://github.com/Blenderwizard">jrathelo</a>
 </h1>
 
+<p align="center">
+	<img src="readme_assets/made-with-c++.svg"/>
+	<img src="readme_assets/success-125_100.svg"/>
+</p>
+
+<p align="center">
+	<img src="readme_assets/example_site.png"/>
+</p>
+
 ## What is this ?
 
 Webserv is a project in the 42 common core. The goal is to code a webserver from scratch, which can host a static website. We used nginx as a reference and the webserv is compatiable with Google Chrome.
